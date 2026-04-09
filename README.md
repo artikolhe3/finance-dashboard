@@ -56,7 +56,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 (Add your Vercel link here after deployment)
+👉 https://finance-dashboard-1ym8.vercel.app/
 
 ---
 
